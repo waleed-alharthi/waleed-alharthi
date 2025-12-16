@@ -7,7 +7,7 @@ This profile page features a pixelated gamer theme with auto-refreshing stats an
 ## ✨ Features Included
 
 ### 1. **Pixelated ASCII Art Header**
-- Custom "WALEED" ASCII art with "CTO @ Rihal" subtitle
+- Custom "WALEED" ASCII art with "Dev @ Rihal" subtitle
 - Animated typing effect showing role and motto
 
 ### 2. **Auto-Refreshing Player Stats**
@@ -17,9 +17,9 @@ This profile page features a pixelated gamer theme with auto-refreshing stats an
 - All stats auto-refresh when the page loads
 
 ### 3. **Tech Arsenal**
-- Visual skill icons for 25+ technologies
-- Pixelated progress bars for skill levels
-- Gaming-themed "Power Level" display
+- Dynamic language statistics from actual repositories
+- Shows top programming languages used across contributed repos
+- Auto-updates based on GitHub activity
 
 ### 4. **Achievements (Trophies)**
 - Auto-generated achievement badges based on GitHub activity
@@ -134,10 +134,9 @@ The profile uses a cyberpunk/matrix-inspired color scheme:
 ## 🎯 Customization
 
 You can customize:
-- Tech stack icons (line 54)
-- Skill level percentages (lines 48-50)
-- Social links (lines 118-119)
-- Gaming quote (line 111)
+- Languages to hide in Tech Arsenal stats (line 48, currently hiding html,css)
+- Social links (lines 112-113)
+- Gaming quote (line 106)
 - Color scheme (change #00FF41 to your preferred color)
 
 ## 💡 Tips
@@ -158,6 +157,6 @@ You can customize:
 
 ---
 
-**Built for**: CTO @ Rihal  
+**Built for**: Dev @ Rihal  
 **Purpose**: Showcase technical prowess while maintaining professional privacy  
 **Theme**: Retro gaming meets modern development
