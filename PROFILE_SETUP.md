@@ -12,7 +12,6 @@ This profile page features a pixelated gamer theme with auto-refreshing stats an
 
 ### 2. **Auto-Refreshing Player Stats**
 - **GitHub Stats Card**: Shows public contributions, stars, commits, PRs, issues
-- **Language Stats**: Displays top programming languages used
 - **Streak Stats**: Current streak, longest streak, total contributions
 - All stats auto-refresh when the page loads
 
@@ -134,9 +133,9 @@ The profile uses a cyberpunk/matrix-inspired color scheme:
 ## 🎯 Customization
 
 You can customize:
-- Languages to hide in Tech Arsenal stats (line 48, currently hiding html,css)
-- Social links (lines 112-113)
-- Gaming quote (line 106)
+- Languages to hide in Tech Arsenal stats (line 47, currently hiding html,css)
+- Social links (lines 111-112)
+- Gaming quote (line 105)
 - Color scheme (change #00FF41 to your preferred color)
 
 ## 💡 Tips
