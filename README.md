@@ -22,8 +22,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waleed-alharthi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-alharthi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=waleed-alharthi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" alt="GitHub Stats" />
 
 </div>
 
@@ -45,7 +44,7 @@
 └─────────────────────────────────────────────────┘
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-alharthi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Technologies Used" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-alharthi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=12&hide=html,css" alt="Technologies Used" />
 
 </div>
 
