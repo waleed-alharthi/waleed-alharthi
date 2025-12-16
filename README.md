@@ -12,7 +12,7 @@
     ╚═╝ ╩ ╚═╝  ╩ ╩ ╩╚═╩╩ ╩╩ ╩╩═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=CTO+%40+Rihal;Coding+in+the+Trenches;Game+On+🎮+Code+Strong+💪" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=CTO+%40+Rihal;Coding+in+the+Trenches;Game+On+%F0%9F%8E%AE+Code+Strong+%F0%9F%92%AA" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-alharthi&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=waleed-alharthi&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 
 </div>
 
@@ -43,7 +43,7 @@
 ┌─────────────────────────────────────────────────┐
 │           ⚡ POWER LEVEL: LEGENDARY ⚡          │
 │                                                 │
-│  Multi-Language Polyglot | Cloud Native Ninja  │
+│  Multi-Language Polyglot | Docker Virtuoso     │
 │  DevOps Master | Architecture Architect        │
 └─────────────────────────────────────────────────┘
 ```
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed-alharthi&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed-alharthi&custom_title=Waleed%20Al%20Harthi%27s%20Contribution%20Graph&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
 
