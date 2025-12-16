@@ -12,7 +12,7 @@
     ╚═╝ ╩ ╚═╝  ╩ ╩ ╩╚═╩╩ ╩╩ ╩╩═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=CTO+%40+Rihal;Coding+in+the+Trenches;Game+On+%F0%9F%8E%AE+Code+Strong+%F0%9F%92%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Dev+%40+Rihal;Coding+in+the+Trenches;Game+On+%F0%9F%8E%AE+Code+Strong+%F0%9F%92%AA" alt="Typing SVG" />
 
 </div>
 
@@ -41,14 +41,11 @@
 
 ```
 ┌─────────────────────────────────────────────────┐
-│           ⚡ POWER LEVEL: LEGENDARY ⚡          │
-│                                                 │
-│  Multi-Language Polyglot | Docker Virtuoso     │
-│  DevOps Master | Architecture Architect        │
+│    Technologies from actual repositories        │
 └─────────────────────────────────────────────────┘
 ```
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,docker,kubernetes,aws,gcp,git,github,vscode,linux,nodejs,react,vue,angular,mongodb,postgresql,redis,graphql,jenkins,terraform&perline=13" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-alharthi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Technologies Used" />
 
 </div>
 
